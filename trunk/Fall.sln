@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fall", "Intermediate\ProjectFiles\Fall.vcxproj", "{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugGame Editor|Windows = DebugGame Editor|Windows
+		DebugGame|Windows = DebugGame|Windows
+		Development Editor|Windows = Development Editor|Windows
+		Development|Windows = Development|Windows
+		Shipping|Windows = Shipping|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.DebugGame Editor|Windows.ActiveCfg = DebugGame_Editor|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.DebugGame Editor|Windows.Build.0 = DebugGame_Editor|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.DebugGame|Windows.ActiveCfg = DebugGame_Game|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.DebugGame|Windows.Build.0 = DebugGame_Game|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.Development Editor|Windows.ActiveCfg = Development_Editor|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.Development Editor|Windows.Build.0 = Development_Editor|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.Development|Windows.ActiveCfg = Development_Game|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.Development|Windows.Build.0 = Development_Game|x64
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.Shipping|Windows.ActiveCfg = Shipping_Game|Win32
+		{6FA29D4B-099D-4BC5-A0BF-BCEA52899C05}.Shipping|Windows.Build.0 = Shipping_Game|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
